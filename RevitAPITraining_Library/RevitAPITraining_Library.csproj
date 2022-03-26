@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="DuctUtils.cs" />
     <Compile Include="FamilyInstanceUtils.cs" />
+    <Compile Include="FamilySymbolUtils.cs" />
     <Compile Include="FurnitureUtils.cs" />
     <Compile Include="LevelsUtils.cs" />
     <Compile Include="SelectionUtils.cs" />
