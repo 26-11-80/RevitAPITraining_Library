@@ -68,6 +68,8 @@
     <Compile Include="LevelsUtils.cs" />
     <Compile Include="SelectionUtils.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TitleBlocksUtils.cs" />
+    <Compile Include="ViewsUtils.cs" />
     <Compile Include="WallUtils.cs" />
   </ItemGroup>
   <ItemGroup>
